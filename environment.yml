@@ -5,3 +5,10 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - numpy
+  - networkx
+  - matplotlib
+  - scipy
+  - ipywidgets
+  - pip:
+    - ./hiperwalk
